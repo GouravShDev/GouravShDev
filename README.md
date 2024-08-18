@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently an Software intern in an IT company. <br>I love building beautiful and interactive websites and apps. <br>I specialize in dart, python, and many more programming languages. <br>I also have experience working with React and Flutter frameworks and build some amazing projects using them
+Welcome to my GitHub profile! I'm a versatile software developer with a passion for creating innovative mobile applications and robust backend solutions. My primary expertise lies in Android development, but I've also worked extensively with backend technologies, particularly using JavaScript. I enjoy tackling complex problems and turning ideas into scalable, efficient code. Here, you'll find a collection of my projects, showcasing my commitment to clean, maintainable code and my drive to continually learn and adapt to new challenges. Let's collaborate and build something amazing together!
 
 
 ## 🌐 Socials:
